@@ -1,6 +1,6 @@
-﻿namespace XUnitTestProject.ReverseNameTests
+﻿namespace ClassLibrary.NameInverter
 {
-    public class RegularExpressionHelpers
+    public static class RegularExpressionHelpers
     {
         public static string AnyAmountOfWhitespace()
         {
